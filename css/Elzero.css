@@ -143,6 +143,14 @@ ul {
     left: 0;
 }
 
+@media (max-width: 1200px) {
+
+    .event-dots-up,
+    .event-dots-down {
+        display: none;
+    }
+}
+
 /* End Global Rules */
 
 /* Start Header */

@@ -5,7 +5,7 @@
 <h1 align="center">My Super Cool Website</h1>
 
 <p align="center">
-  A stunning website showcasing my HTML and CSS skills with a touch of creativity.
+  A stunning website showcasing my HTML, CSS, and JavaScript skills with a touch of creativity.
 </p>
 
 <p align="center">
@@ -20,6 +20,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" />
 </p>
 
@@ -30,4 +31,4 @@
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/ABDULLAHRH1HTML_And_CSS_Template_Three.git
+   git clone https://github.com/ABDULLAHRH1/HTML_And_CSS_Template_Three.git

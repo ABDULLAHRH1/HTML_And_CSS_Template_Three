@@ -1,32 +1,26 @@
-<!-- Banner Image -->
 <p align="center">
-  <img src="images/web5.png" alt="Project Screenshot" />
+  <img src="images/web3.png" alt="Project Screenshot" />
 </p>
 
-<!-- Title -->
-<h1 align="center">🚀 My Super Cool Website 🚀</h1>
+<h1 align="center">My Super Cool Website</h1>
 
-<!-- Description -->
 <p align="center">
-  🌟 A stunning website showcasing my HTML, CSS, and JavaScript skills with a touch of creativity. 🌟
+  A stunning website showcasing my HTML, CSS, and JavaScript skills with a touch of creativity.
 </p>
 
-<!-- Features -->
 <p align="center">
-  <img src="https://img.icons8.com/officel/80/000000/clean.png" alt="Clean Design" />
+  <img src="https://img.icons8.com/color/64/000000/checkmark--v1.png" alt="Checkmark" />
   <strong>Clean Design</strong> |
-  <img src="https://img.icons8.com/officel/80/000000/responsive.png" alt="Responsive Layout" />
+  <img src="https://img.icons8.com/color/64/000000/checkmark--v1.png" alt="Checkmark" />
   <strong>Responsive Layout</strong> |
-  <img src="https://img.icons8.com/officel/80/000000/animation.png" alt="Smooth Animations" />
+  <img src="https://img.icons8.com/color/64/000000/checkmark--v1.png" alt="Checkmark" />
   <strong>Smooth Animations</strong>
 </p>
 
-<!-- Technologies -->
 <p align="center">
-  <img src="https://img.icons8.com/officel/80/000000/html.png" alt="HTML5" />
-  <img src="https://img.icons8.com/officel/80/000000/css.png" alt="CSS3" />
-  <img src="https://img.icons8.com/officel/80/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/officel/80/000000/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" />
 </p>
 
 ## 🚀 Get Started

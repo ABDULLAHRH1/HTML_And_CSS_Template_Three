@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" style="margin: 0 10px;" />
 </p>
 
 ## 🚀 Get Started

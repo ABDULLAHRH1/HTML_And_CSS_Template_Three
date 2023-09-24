@@ -28,4 +28,3 @@
 
    ```shell
    git clone https://github.com/ABDULLAHRH1/HTML_And_CSS_Template_Three.git
-make htis one the smae as that onw

@@ -2,20 +2,17 @@
   <img src="images/web3.png" alt="Project Screenshot" />
 </p>
 
-<h1 align="center">My Super Cool Website</h1>
+<!-- Project Title -->
+<h1 align="center" style="font-size: 48px; color: #333; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🚀 My Super Cool Website 🚀</h1>
 
-<p align="center">
-  A stunning website showcasing my HTML, CSS, and JavaScript skills with a touch of creativity.
+<!-- Project Description -->
+<p align="center" style="font-size: 24px; color: #666; font-family: 'Arial', sans-serif;">Experience a stunning showcase of HTML and CSS skills infused with creativity.</p>
+
+<!-- Key Features -->
+<p align="center" style="font-size: 24px; color: #333; margin-top: 20px; font-family: 'Arial', sans-serif;">
+  ✨ Clean Design | 📱 Responsive Layout | 💫 Smooth Animations
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/64/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Clean Design</strong> |
-  <img src="https://img.icons8.com/color/64/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Responsive Layout</strong> |
-  <img src="https://img.icons8.com/color/64/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Smooth Animations</strong>
-</p>
 
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" />
